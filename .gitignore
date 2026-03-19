@@ -1,3 +1,2 @@
-branchout
-homebrew*
-scoop*
+# Ignore all nested projects under group dirs
+*/*
